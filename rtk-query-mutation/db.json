@@ -1,0 +1,47 @@
+{
+  "artists": [
+    {
+      "username": "Magdalen.Greenholt65",
+      "firstname": "Millie",
+      "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/173.jpg",
+      "id": 19
+    },
+    {
+      "username": "Margarete_Zboncak",
+      "firstname": "Jamal",
+      "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/881.jpg",
+      "id": 20
+    },
+    {
+      "username": "Megane_Weissnat",
+      "firstname": "Monserrate",
+      "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/542.jpg",
+      "id": 21
+    },
+    {
+      "username": "Kaleigh.Kemmer",
+      "firstname": "Glenna",
+      "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/394.jpg",
+      "id": 22
+    },
+    {
+      "username": "Marcelo_Beier",
+      "firstname": "Annalise",
+      "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/282.jpg",
+      "id": 23
+    },
+    {
+      "username": "Otis_Rutherford25",
+      "firstname": "Linwood",
+      "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/907.jpg",
+      "id": 24
+    }
+  ],
+  "albums": [
+    {
+      "artistId": "19",
+      "title": "Bespoke Granite Hat",
+      "id": 1
+    }
+  ]
+}
